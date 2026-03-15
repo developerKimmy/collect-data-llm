@@ -1,0 +1,6 @@
+{
+  "search_url": "https://dapi.kakao.com/v2/local/search/keyword.json",
+  "max_distance_km": 1.0,
+  "timeout": 10,
+  "data_dir": "data"
+}

@@ -1,0 +1,19 @@
+{
+  "areas": {
+    "대전": {"area_code": "3"},
+    "세종": {"area_code": "8"},
+    "공주": {"area_code": "34", "sigungu_code": "1"},
+    "계룡": {"area_code": "34", "sigungu_code": "16"},
+    "논산": {"area_code": "34", "sigungu_code": "3"},
+    "금산": {"area_code": "34", "sigungu_code": "2"},
+    "부여": {"area_code": "34", "sigungu_code": "6"},
+    "옥천": {"area_code": "33", "sigungu_code": "5"},
+    "경주": {"area_code": "35", "sigungu_code": "2"},
+    "영천": {"area_code": "35", "sigungu_code": "15"},
+    "청도": {"area_code": "35", "sigungu_code": "20"}
+  },
+  "groups": {
+    "daejeon": ["대전", "세종", "공주", "계룡", "논산", "금산", "부여", "옥천"],
+    "gyeongju": ["경주", "영천", "청도"]
+  }
+}

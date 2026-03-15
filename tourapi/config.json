@@ -1,0 +1,20 @@
+{
+  "base_url": "http://apis.data.go.kr/B551011/KorService2",
+  "mobile_os": "ETC",
+  "mobile_app": "TourRAG",
+  "response_type": "json",
+  "request_delay": 0.5,
+  "num_of_rows": 1000,
+  "max_retries": 3,
+  "content_types": {
+    "12": "관광지",
+    "14": "문화시설",
+    "15": "축제공연행사",
+    "25": "여행코스",
+    "28": "레포츠",
+    "32": "숙박",
+    "38": "쇼핑",
+    "39": "음식점"
+  },
+  "data_dir": "data"
+}

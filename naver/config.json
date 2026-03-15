@@ -1,0 +1,9 @@
+{
+  "local_url": "https://openapi.naver.com/v1/search/local.json",
+  "blog_url": "https://openapi.naver.com/v1/search/blog.json",
+  "timeout": 10,
+  "request_delay": 0.5,
+  "blog_display": 10,
+  "blog_threshold": 3,
+  "data_dir": "data"
+}
